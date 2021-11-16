@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "event-editor",
+      "description": "Edit an event using SHACL",
+      "events": [],
+      "slots": [],
+      "cssProperties": []
+    }
+  ]
+}
